@@ -8,5 +8,3 @@ A text file that includes relative informatiion for building the DFA, including 
 
 ### input.txt
 A text file that includes a sequence of Sigma for the newly built DFA.
-
-### Screenshots
